@@ -1,0 +1,30 @@
+body{
+	font-family: 'Calibri' !important;
+}
+
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url('../fonts/fontawesome-webfont');
+    src: url('../fonts/fontawesome-webfont'),
+         url('../fonts/fontawesome-webfont');
+    font-weight: normal;
+    font-style: normal;
+}
+.newcust-btn{padding:10px 30px; background-color:#ff3701; color:#fff; font-size:17px; margin:20px 0;  border:2px solid #9a9a9a;}
+.newcust-btn:hover{background:#423f3f;}
+
+.form-box{padding:25px; border:1px solid #ff3701; -webkit-box-shadow: 0 0 5px #ff3701;
+        box-shadow: 0 0 5px #ff3701;}
+.form-m{margin:40px 0;} 
+.tr-color{background:#eeeeee; font-weight:bold; color:#666663;}
+.info{color:#ff3701; font-size:18px; font-weight:bold; margin:0; padding:0; }
+.hd{padding-bottom:10px;margin:30px 0; border-width:4px; border-bottom-color:#ff3701;
+    border-bottom-style:double; text-transform:uppercase; }
+.hd-first{margin-top:0;}
+.sub-btn{padding:10px 20px; background-color:#ff3701; color:#fff; font-size:17px; margin-top:20px; border:2px solid #9a9a9a;}
+.sub-btn:hover{background:#423f3f;}
+.btn-rm{margin-right:10px;}
+.mb{margin-bottom:20px;}
+.table{width:100%;}
+.td-input{width:100%;}
